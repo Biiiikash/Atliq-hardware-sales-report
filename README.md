@@ -2,6 +2,19 @@
 
 This is a full-cycle **Excel Business Intelligence project** developed for AtliQ Hardware. It focuses on multi-year sales performance analytics across geographies, customers, and product divisions. Designed entirely in **Microsoft Excel**, it leverages **Power Query**, **Power Pivot**, and **DAX** to deliver an interactive, executive-level dashboard.
 
+## 📥 Excel Dashboard Download
+
+> Want to explore the full interactive Excel dashboard with Power Query & Power Pivot modeling?
+
+📊 **[Click here to download the Excel file from Google Drive](https://docs.google.com/spreadsheets/d/1RylQgkNgw5mWNWj-I5qaK4uMGTgS_ZWE/edit?usp=drive_link&ouid=108922368496094214902&rtpof=true&sd=true)**
+> *(Hosted securely via Google Drive due to file size limits on GitHub)*
+
+
+Or If you'd like to view the complete report without opening Excel, you can  
+📄 [**Click here to view the PDF version**](./Atliq%20Hardware.pdf).
+
+
+
 ## 🔧 Tools & Techniques Used
 
 - **Microsoft Excel (Advanced)**
@@ -32,10 +45,5 @@ This is a full-cycle **Excel Business Intelligence project** developed for AtliQ
   - Clean, executive-level dashboard layout
   - Dynamic KPIs and charts with slicers
   - Drill-down ready insights and filter-enabled summaries
-
-## 🔗 Full Report Preview (PDF)
-
-If you'd like to view the complete report without opening Excel, you can  
-📄 [**Click here to view the PDF version**](./Atliq%20Hardware.pdf).
 
 
